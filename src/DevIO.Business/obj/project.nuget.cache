@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rMA4tAOyMraV2RYRJqWH+N8QSF5HGTSXE384XeaQDEwQbvRn7r6blwkB/kA64MrcnvKDq2L58eKJAIDOEWNotg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Edney\\Documents\\Cursos\\C# - Asp.net Core 2022\\Desenvolvedor.io\\Dominando o Asp.Net MVC Core\\AppCompleta5.0\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Edney\\.nuget\\packages\\fluentvalidation\\11.0.1\\fluentvalidation.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

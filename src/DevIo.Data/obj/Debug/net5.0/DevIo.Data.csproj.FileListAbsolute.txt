@@ -1,0 +1,15 @@
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIo.Data\bin\Debug\net5.0\DevIo.Data.deps.json
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIo.Data\bin\Debug\net5.0\DevIo.Data.dll
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIo.Data\bin\Debug\net5.0\ref\DevIo.Data.dll
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIo.Data\bin\Debug\net5.0\DevIo.Data.pdb
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIo.Data\bin\Debug\net5.0\DevIO.Business.dll
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIo.Data\bin\Debug\net5.0\DevIO.Business.pdb
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIo.Data\obj\Debug\net5.0\DevIo.Data.csproj.AssemblyReference.cache
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIo.Data\obj\Debug\net5.0\DevIo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIo.Data\obj\Debug\net5.0\DevIo.Data.AssemblyInfoInputs.cache
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIo.Data\obj\Debug\net5.0\DevIo.Data.AssemblyInfo.cs
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIo.Data\obj\Debug\net5.0\DevIo.Data.csproj.CoreCompileInputs.cache
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIo.Data\obj\Debug\net5.0\DevIo.Data.csproj.CopyComplete
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIo.Data\obj\Debug\net5.0\DevIo.Data.dll
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIo.Data\obj\Debug\net5.0\ref\DevIo.Data.dll
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIo.Data\obj\Debug\net5.0\DevIo.Data.pdb

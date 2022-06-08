@@ -1,0 +1,12 @@
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.deps.json
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.dll
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIO.Business\bin\Debug\net5.0\ref\DevIO.Business.dll
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.pdb
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.csproj.AssemblyReference.cache
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.AssemblyInfo.cs
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.dll
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIO.Business\obj\Debug\net5.0\ref\DevIO.Business.dll
+C:\Users\Edney\Documents\Cursos\C# - Asp.net Core 2022\Desenvolvedor.io\Dominando o Asp.Net MVC Core\AppCompleta5.0\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.pdb
